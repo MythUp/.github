@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>🇩🇪 German</td>
-    <td>Basic knowledge</td>
+    <td>B1</td>
   </tr>
 </table>
 
