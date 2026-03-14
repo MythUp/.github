@@ -36,25 +36,31 @@
     </td>
   </tr>
   <tr>
+  <td>Frameworks</td>
+    <td>
+      <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
     <td>Environments</td>
     <td>
       <img src="https://img.shields.io/badge/Laragon-4E8DEE?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>IDEs</td>
     <td>
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JetBrains_IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JetBrains_IDE-1E1E2F?style=for-the-badge&logo=jetbrains&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>AI/Assistants</td>
     <td>
       <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Gemini-FF6F00?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge"/>
     </td>
   </tr>
 </table>
@@ -88,6 +94,7 @@
 
 - Minecraft content creation  
 - Automation and productivity tools  
+- Bots  
 
 ---
 
