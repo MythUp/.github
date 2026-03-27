@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-  <td>Frameworks</td>
+    <td>Frameworks</td>
     <td>
       <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -45,7 +45,8 @@
   <tr>
     <td>Environments</td>
     <td>
-      <img src="https://img.shields.io/badge/Laragon-4E8DEE?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Laragon-4E8DEE?style=for-the-badge&logo=laragon&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -56,11 +57,24 @@
     </td>
   </tr>
   <tr>
-    <td>AI/Assistants</td>
+    <td>AI / Assistants</td>
     <td>
       <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Claude-FF6F61?style=for-the-badge&logo=claude&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Operating Systems</td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
     </td>
   </tr>
 </table>
