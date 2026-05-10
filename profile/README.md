@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm MythUp_ 👋</h1>
 <p align="center">
   <b>Student | Passionate Developer | France</b><br>
-  <i>I enjoy working on website projects and Minecraft content.</i>
+  <i>I enjoy working on website projects, Minecraft content and bots.</i>
 </p>
 
 ---
@@ -47,6 +47,7 @@
     <td>
       <img src="https://img.shields.io/badge/Laragon-4E8DEE?style=for-the-badge&logo=laragon&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -76,6 +77,14 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
+   <td>CLI</td>
+   <td>
+    <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Symfony%20CLI-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+   </td>
   </tr>
 </table>
 
@@ -113,5 +122,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MythUp&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MythUp&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
