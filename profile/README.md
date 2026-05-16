@@ -4,6 +4,13 @@
   <i>I enjoy working on website projects, Minecraft content and bots.</i>
 </p>
 
+<div align="center">
+
+  [![Coding time (all-time)](https://devglobe.app/api/badge/MythUp/coding-time-all.svg?theme=dark)](https://devglobe.app/developers/MythUp)
+  [![Streak](https://devglobe.app/api/badge/MythUp/streak.svg?theme=dark)](https://devglobe.app/developers/MythUp)
+
+</div>
+
 ---
 
 ### 🚀 About Me
