@@ -33,6 +33,7 @@
     <td>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Twig-BDDE64?style=for-the-badge">
     </td>
   </tr>
   <tr>
